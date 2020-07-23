@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breathe", "Breathe\Breathe.csproj", "{748859A1-9D7F-4347-AA10-7E7B4949B109}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{748859A1-9D7F-4347-AA10-7E7B4949B109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748859A1-9D7F-4347-AA10-7E7B4949B109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748859A1-9D7F-4347-AA10-7E7B4949B109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748859A1-9D7F-4347-AA10-7E7B4949B109}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EE968BA-12D1-4F02-A645-C9079B618B95}
+	EndGlobalSection
+EndGlobal
